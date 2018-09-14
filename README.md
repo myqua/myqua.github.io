@@ -1,7 +1,7 @@
 # Mike Waugh
 ### Technology Initiatives Development and Management Librarian, LSU Libraries 
   
-[mwau](mailto:mwaugh2@lsu.edu)  
+[mwaugh2@lsu.edu](mailto:mwaugh2@lsu.edu)  
 office (225) 578-3330 | cell (225) 573-1550
 
 -----------
