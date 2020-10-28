@@ -1,10 +1,10 @@
 # Mike Waugh
 ### Library Services Platform Administrator, LOUIS Libraries 
   
-[mike.waugh@regents.la.gov](mailto:mike.waugh@laregents.edu)  
-office (225) 219-7168
-Twitter: @mikewaughbr
-GitHub: myqua
+[mike.waugh@laregents.edu](mailto:mike.waugh@laregents.edu)  
+office (225) 219-7168  
+Twitter: @mikewaughbr  
+GitHub: myqua  
 
 -----------
 
