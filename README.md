@@ -1,8 +1,10 @@
 # Mike Waugh
-### Technology Initiatives Development and Management Librarian, LSU Libraries 
+### Library Services Platform Administrator, LOUIS Libraries 
   
-[mwaugh2@lsu.edu](mailto:mwaugh2@lsu.edu)  
-office (225) 578-3330 | cell (225) 573-1550
+[mike.waugh@regents.la.gov](mailto:mike.waugh@laregents.edu)  
+office (225) 219-7168
+Twitter: @mikewaughbr
+GitHub: myqua
 
 -----------
 
@@ -123,6 +125,8 @@ Waugh, M. and Braunstein, S. "Herding Stats: Best Practices for Collecting and R
 Waugh, M. "Customizing Discovery". LOUIS Users Conference (LUC), Port Allen, LA. October 2013.
 
 ### Publications
+
+Waugh, M., Comeaux, D. and Frank, E. 2019. "Supporting Student Success: E-books as Course Materials". Codex: Journal of the Louisiana Chapter of the ACRL. 5 (2): 29-48. http://journal.acrlla.org/index.php/codex/article/view/143.
 
 Waugh, M. "Increasing Effectiveness of Library Projects through ScrumMaster Certification". *Advances in Library Administration and Organization.* Emerald Publishing. 2018.
 
