@@ -25,7 +25,7 @@ GitHub: myqua
 * Programming
 	* Python
 	* Git, GitHub
-	* SirsiDynix Symphony APIs: Webservices and "SelTools"
+	* SirsiDynix Symphony APIs and Symphony WebServices
 * Web Development
 	* HTML, CSS
 	* Markdown, Pandoc
@@ -33,7 +33,9 @@ GitHub: myqua
 
 ### Experience
 
-* __LSU Libraries, Technology Initiatives Development and Management Librarian/ Systems Librarian, May 2012 to present__
+* __LOUIS Libraries, Library Services Platform Administrator, June 2018 to present__
+
+* __LSU Libraries, Technology Initiatives Development and Management Librarian/ Systems Librarian, May 2012 to June 2018__
 	* Responsible for management of LSU Libraries' ILS and Web OPAC (SirsiDynix Symphony) and discovery service, (EBSCO Discovery Service). Tested upgrades, customized, and provided extensive support and training for both systems. Currently serving as backup and support to Systems and Discovery Librarian.
 	* Configured EDS as LSU Libraries' primary search interface. 
 	* Responsible for configuration and troubleshooting of access to electronic resources through EZproxy and link resolvers.
